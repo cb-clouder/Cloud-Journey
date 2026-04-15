@@ -6,3 +6,6 @@ Intro to IT:
   - convert decimal numbers into binary numbers and hexadecimal numbers and back again.
   - I'm 39 years old, or 100111, or 27
 
+GitHub: Revamped my "Cloud Journey" repository by:
+  - Editing my README file
+  - transitioning to a file system uder /posts directory to better organize my jouney
