@@ -1,0 +1,3 @@
+Over the last handful of days I've been studying and working through my intro to IT class. I finished all the course work and have a 95% heading into the final touchstone project. The project is a powerpoint presentation where I am an IT consultant helping a client with their current IT infrastructure issues.
+
+This project was fun and showcases all I;ve learned in my first IT class! My suggestions to the client included things like updating their current hardware, software, networking, Wi Fi, and security. Please check out the power point presentation below! (Not embedded yet because of issues with the microsoft server log in-- coming soon!)
