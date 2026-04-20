@@ -4,4 +4,4 @@ This project was fun and showcases all I've learned in my first IT class! My sug
 
 You can check out my slideshow below! I'm open to constructive criticism as well. 
 
-<iframe src="https://1drv.ms/p/c/284460d70b290b63/IQTas12VX_CuTZlxcPpX1WrGAa7MOucuW--x0ie2tqtLWnU?em=2&amp;wdAr=1.7763888888888888" width="476px" height="288px" frameborder="0" title="PowerPoint Viewer">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+Without further ado, here are my [IT Infrastructure Recommendations] (<iframe src="https://1drv.ms/p/c/284460d70b290b63/IQTas12VX_CuTZlxcPpX1WrGAa7MOucuW--x0ie2tqtLWnU?em=2&amp;wdAr=1.7763888888888888" width="476px" height="288px" frameborder="0" title="PowerPoint Viewer">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>)
