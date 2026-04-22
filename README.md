@@ -10,3 +10,4 @@ Welcome to my cloud computing journey!
 - [Phase 1: Getting Started Part 3](./posts/03-phase-1-getting-started.md)
 - [Phase 1: Getting Started Part 4](./posts/04-phase-1-getting-started.md)
 - [Phase 1: Getting Started Part 5](./posts/05-phase-1-getting-started.md)
+- [Phase 1: Getting Started Part 6](./posts/06-phase-1-getting-started.md)
