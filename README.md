@@ -17,4 +17,4 @@ Welcome to my cloud computing journey!
 ## Phase 2: Intro. to Networking
 I would like to make more intricate observations of my IT related courses as they delve into more specifics of IT infrastructure. A lot of this is new to me. "Phase 2: Intro. to Networking" will serve as a repository for all things related to my Intro. to Networking course. 
 
-- [Networking Models & Data Transmission](./posts/Network-Models-and-Data-Transmission)
+- [Networking Models & Data Transmission](./posts/Network-Models-and-Data-Transmission.md)
