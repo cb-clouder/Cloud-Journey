@@ -5,11 +5,11 @@ A network connects two or more devices so they can share data, hardware, and sof
 Networks can be classified by their size/scope, ownership/access, or topology.
 
 Size and Scope: 
-A Personal Area Network (PAN) connects personal devices like smartphones, earbuds, and laptops, often through Bluetooth.
-A Local Area Network (LAN) connects devices within a limited area such as an office, home, or school.
-A Campus Area Network (CAN) links multiple LANs across a university or corporate campus.
-A Metropolitan Area Network (MAN) connects networks across a city or metropolitan region.
-A Wide Area Network (WAN) connects devices across states, countries, or even the globe. The Internet is the largest WAN.
+- Personal Area Network (PAN) connects personal devices like smartphones, earbuds, and laptops, often through Bluetooth.
+- Local Area Network (LAN) connects devices within a limited area such as an office, home, or school.
+- Campus Area Network (CAN) links multiple LANs across a university or corporate campus.
+- Metropolitan Area Network (MAN) connects networks across a city or metropolitan region.
+- Wide Area Network (WAN) connects devices across states, countries, or even the globe. The Internet is the largest WAN.
 
 Ownership and Access:
 Private networks are owned and controlled by organizations and restricted to authorized users.
