@@ -6,10 +6,10 @@ Whenever you send a message, stream a video, or load a webpage, your device foll
 - Network Stack: The collection of protocols on a device that work together to support network communication.
 
 ## TCP/ICP Model (4 layers)
-- Link Layer, which manages local delivery within the same network
-- Internet Layer, which handles addressing and long-distance routing
-- Transport Layer, which ensures successful delivery of information
-- Application Layer, which provides the services that apps rely on
+- Link Layer: manages local delivery within the same network
+- Internet Layer: handles addressing and long-distance routing
+- Transport Layer: ensures successful delivery of information
+- Application Layer: provides the services that apps rely on
 
 ## Link Layer
 Think of it as your local post office, the place where your letter begins its journey. Just as your neighborhood post office decides when mail can be accepted, organizes it, and prepares it for regional transport, the Link Layer manages communication within a single local network.
