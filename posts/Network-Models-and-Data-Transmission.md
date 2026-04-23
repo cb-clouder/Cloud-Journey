@@ -1,7 +1,8 @@
 The first set of material in my Intro. to Networking class lists out some commonly used terminology that I will need to know including:
 
 ## Networks: 
-A network connects two or more devices so they can share data, hardware, and software resources. Networks can be classified by their size/scope, ownership/access, or topology.
+A network connects two or more devices so they can share data, hardware, and software resources.
+Networks can be classified by their size/scope, ownership/access, or topology.
 
 Size and Scope: 
 A Personal Area Network (PAN) connects personal devices like smartphones, earbuds, and laptops, often through Bluetooth.
