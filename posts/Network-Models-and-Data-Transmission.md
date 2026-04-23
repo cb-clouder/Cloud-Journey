@@ -24,7 +24,7 @@ Topology:
 - Ring: Devices form a closed loop and pass data around the circle.
 - Mesh: Devices interconnect with many others, allowing multiple paths.
 - Hybrid: It is a combination of two or more topology types.
-(Topology is like a city’s road layout. A star topology is similar to a neighborhood built around a town center, while a mesh topology resembles a grid of streets with many ways to reach a destination.)
+- *Topology is like a city’s road layout. A star topology is similar to a neighborhood built around a town center, while a mesh topology resembles a grid of streets with many ways to reach a destination.
 
 ## Networking Hardware:
 Every network depends on hardware, the physical components that move, manage, and deliver data between devices. These parts form the visible backbone of a network, from the cables in the walls to the switches, routers, and servers that support communication.
