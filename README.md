@@ -19,5 +19,5 @@ I would like to make more intricate observations of my IT related courses as the
 
 - [Networking Models & Data Transmission](./posts/Network-Models-and-Data-Transmission.md)
 - [Networking Models: TCP/IP](./posts/Networking-Models.md)
-- [Networking Models: OSI](./posts/Networking-Models-OSI)
+- [Networking Models: OSI](./posts/Networking-Models-OSI.md)
   
