@@ -1,4 +1,4 @@
-## Networking Models
+## Networking Models- TCP/IP 
 
 Whenever you send a message, stream a video, or load a webpage, your device follows an organized process that determines how information moves from one place to another. These processes are described by networking models. Conceptual frameworks that explain how digital communication happens behind the scenes.
 - The TCP/IP model, created alongside early U.S. Department of Defense networking research, organizes communication into four layers. It is the model used in real-world networks. A four-layer networking model that defines how data is transmitted across the Internet.
