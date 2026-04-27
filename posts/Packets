@@ -1,0 +1,8 @@
+For this lesson I was asked to create an acount on DynomiteLab to view packet information such as pcap files which are usefull in monitoring network traffic. 
+
+- DynamiteLab: A web-based packet capture analysis tool.
+- Packet Capture (pcap): A file that stores network traffic data collected during packet sniffing. These files can be opened with analysis tools to inspect individual packets and communication patterns.
+- Packet Sniffing: The process of capturing and analyzing data packets as they travel across a network, often used for troubleshooting or monitoring traffic.
+
+## Network Trafic
+
