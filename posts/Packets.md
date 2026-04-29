@@ -14,7 +14,7 @@ For this lesson I was asked to create an acount on DynomiteLab to view packet in
 - Uses port numbers to direct traffic to the right application on a device.
       - Port 80 is used for insecure web traffic (HTTP).
       - Port 443 is used for secure web traffic (HTTPS).
-      - Port 22 is Secure Shell (SSH).
+      - Port 22 is the default port for Secure Shell remote access (SSH).
 
 ## UDP 
 
