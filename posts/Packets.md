@@ -23,7 +23,7 @@ For this lesson I was asked to create an acount on DynomiteLab to view packet in
 
 ## Successful Packet Transport Process
 
-    * Upper Case = Client  Lowe Case = Server
+    (Upper Case = Client  Lowe Case = Server)
 
 - S = SYN from client
 - h = SYN-ACK from server
