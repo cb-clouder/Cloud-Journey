@@ -22,3 +22,4 @@ I would like to make more intricate observations of my IT related courses as the
 - [Networking Models: OSI](./posts/Networking-Models-OSI.md)
 - [Packets](./posts/Packets.md)
 - [Network Diagnostics](./posts/Network-Diagnostics.md)
+- [IPV4 Addresses](./posts/IPV4-Addresses.md)
