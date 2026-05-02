@@ -24,3 +24,4 @@ I would like to make more intricate observations of my IT related courses as the
 - [Network Diagnostics](./posts/Network-Diagnostics.md)
 - [IPV4 Addresses](./posts/IPV4-Addresses.md)
 - [Subnetting](./posts/Subnetting.md)
+- [IPV6](./posts/IPV6.md)
