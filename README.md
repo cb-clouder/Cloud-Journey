@@ -25,4 +25,4 @@ I would like to make more intricate observations of my IT related courses as the
 - [IPV4 Addresses](./posts/IPV4-Addresses.md)
 - [Subnetting](./posts/Subnetting.md)
 - [IPV6](./posts/IPV6.md)
-- [IP Addressing & Configuration](./posts/IP-Addressing-&-Configuration.md)
+- [IP Addressing & Configuration](./posts/Configuring-IP-Addresses.md)
