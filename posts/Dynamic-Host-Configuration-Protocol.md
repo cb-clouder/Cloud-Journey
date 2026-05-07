@@ -1,7 +1,7 @@
 In this lesson I learned about DHCP which helps devices on the same network communicate without manual setup.
 
 
-##DHCP
+## DHCP
 
 - Acknowledge: The fourth and final step in the DORA process, where the chosen DHCP server confirms the lease of the IP address and provides the full network configuration.
 
