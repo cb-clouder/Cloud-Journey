@@ -27,3 +27,4 @@ I would like to make more intricate observations of my IT related courses as the
 - [IPV6](./posts/IPV6.md)
 - [Configuring IP Addresses](./posts/Configuring-IP-Addresses.md)
 - [Dynamic Host Configuration Protocol](./posts/Dynamic-Host-Configuration-Protocol.md)
+- [NAT](./posts/NAT.md)
