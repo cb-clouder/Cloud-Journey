@@ -5,7 +5,7 @@ Whenever you send a message, stream a video, or load a webpage, your device foll
 - The OSI model is a seven-layer conceptual framework used for teaching and troubleshooting. A seven-layer teaching model used to describe communication processes in greater detail.
 - Network Stack: The collection of protocols on a device that work together to support network communication.
 
-## TCP/ICP Model (4 layers)
+## TCP/IP Model (4 layers)
 - Link Layer: manages local delivery within the same network
 - Internet Layer: handles addressing and long-distance routing
 - Transport Layer: ensures successful delivery of information
