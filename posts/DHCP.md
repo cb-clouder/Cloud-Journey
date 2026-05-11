@@ -3,6 +3,8 @@ In this lesson I learned about DHCP which helps devices on the same network comm
 
 ## DHCP
 
+Dynamic Host Configuration Protocol
+
 - Acknowledge: The fourth and final step in the DORA process, where the chosen DHCP server confirms the lease of the IP address and provides the full network configuration.
 
 - Automatic Private IP Addressing (APIPA): A fallback mechanism where a device assigns itself an IP address in the 169.254.x.x range if it cannot reach a DHCP server. This allows only local network communication and prevents internet access.
