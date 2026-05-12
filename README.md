@@ -32,4 +32,4 @@ I would like to make more intricate observations of my IT related courses as the
 - [Milestone 1](./posts/Milestone-1.md)
 
 ## Unit 2
-- 
+- [Network Layouts & Hardware](./posts/Network-Layouts-&-Hardware.md)
