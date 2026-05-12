@@ -19,4 +19,4 @@ I also learned the difference between access ports and trunk prots. Access ports
 
 - Trunk Port: A switch port that connects switches or routers and carries tagged frames for multiple local networks on the same physical link.
 
--Unknown Unicast: A frame whose destination MAC address is not yet listed in the switch’s MAC address table. The switch temporarily floods the frame until it learns the correct destination.
+- Unknown Unicast: A frame whose destination MAC address is not yet listed in the switch’s MAC address table. The switch temporarily floods the frame until it learns the correct destination.
